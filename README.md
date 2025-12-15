@@ -25,6 +25,6 @@ A console-based Blood Donation Management System developed in **C++** as part of
 ## 👤 Author
 
 **Saad Ahmed**  
-Second Semester – Database Systems Project
+First Semester – Programming Fundamental Project
 
 
