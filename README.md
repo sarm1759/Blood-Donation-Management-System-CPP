@@ -1,9 +1,6 @@
-# Blood-Donation-Management-System-CPP
-C++ Programming Fundamental semester project (1st Semester)
-
 # 🩸 Blood Donation Management System (C++)
 
-A console-based Blood Donation Management System developed in C++ as part of **Programming Fundamentals (Semester 1)**.
+A console-based Blood Donation Management System developed in **C++** as part of **Programming Fundamentals Lab (1st Semester)**.
 
 ## 📌 Features
 - Register new blood donors
