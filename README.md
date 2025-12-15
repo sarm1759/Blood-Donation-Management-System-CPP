@@ -22,5 +22,9 @@ A console-based Blood Donation Management System developed in **C++** as part of
 - Run it -- boom you got the project (Their is also a donors.txt file where some donors already registered, So when you search for any blood group, you will get result from that file)
 - If you don't want these donors, Just delete the file and then run program and register donor by your self
 
-Thanks
+## 👤 Author
+
+**Saad Ahmed**  
+Second Semester – Database Systems Project
+
 
